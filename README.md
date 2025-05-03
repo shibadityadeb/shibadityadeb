@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **Next.js , Django etc**
 
-- 👨‍💻 All of my projects are available at [https://my-portfolio-one-neon-33.vercel.app/index.html](https://my-portfolio-one-neon-33.vercel.app/index.html)
+- 👨‍💻 All of my projects are available at [https://portfolio-flj68jrij-shibaditya-debs-projects.vercel.app/](https://portfolio-flj68jrij-shibaditya-debs-projects.vercel.app/)
 
 - 💬 Ask me about **AI/ML, crafting AI models, fintech innovations, and frontend wizardry!**
 
