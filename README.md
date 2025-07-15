@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Shibaditya Deb</h1>
-<h3 align="center">Web Developer | Building the Future, One Line of Code at a Time | Passionate About Full-Stack Development | Exploring the World of Frontend & Backend</h3>
+<h3 align="center">Frontend to Backend | Exploring the Brains Behind GenAI & LLM Systems</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shibadityadeb&label=Profile%20views&color=0e75b6&style=flat" alt="shibadityadeb" /> </p>
 
