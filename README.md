@@ -9,7 +9,7 @@
 
 - 👨‍💻 All of my projects are available in my [Portfolio](https://shibadityadeb.vercel.app/)
 
-- 💬 Ask me about **AI/ML, crafting AI models, fintech innovations, and frontend wizardry!**
+- 💬 Ask me about **AI/ML, crafting AI models, fintech innovations!**
 
 - 📫 How to reach me **shibadityadeb.official@gmail.com**
 
