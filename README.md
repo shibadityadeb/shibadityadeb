@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **Node.js , Django , AI/ML etc**
 
-- 👨‍💻 All of my projects are available in my [Portfolio](https://shibadityadeb.vercel.app/)
+- 👨‍💻 All of my projects are available in my [Portfolio](https://shibadityadeb-seven.vercel.app/)
 
 - 💬 Ask me about **AI/ML, crafting AI models, fintech innovations!**
 
