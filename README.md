@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=shibadityadeb" alt="shibadityadeb" /></a> </p>
 
-- 🌱 I’m currently learning **Node.js , Django , AI/ML etc**
+- 🌱 I’m currently learning **AWS , Django , AI/ML etc**
 
 - 👨‍💻 All of my projects are available in my [Portfolio](https://shibadityadeb-seven.vercel.app/)
 
