@@ -1,4 +1,4 @@
-# 💫 About Me:
+# 💫 About Me: 
 🚀 Building: AI that performs, not just presents<br>🤝 Collaborate: High-impact moves only<br>🛠️ Help With: Breaking limits & breaking RAM while training<br>🌱 Learning: Staying an outlier , always above the curve<br>💬 Ask Me: Code, capital & calculated risks<br>⚡ Fun Fact: I don’t follow rules. I redesign them.
 
 
