@@ -1,0 +1,35 @@
+name: 3D City Builder
+
+on:
+  schedule:
+    - cron: "0 0 * * *"
+  
+  workflow_dispatch:
+
+  push:
+    branches:
+      - master
+      - main
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    name: Generate 3D City
+    permissions:
+      contents: write 
+      
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Generate 3D City Visualization
+        uses: yyl1000/github-profile-3d-contrib@main
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          USERNAME: ${{ github.repository_owner }}
+
+      - name: Commit & push if changed
+        run: |
+          git config user.email "action@github.com"
+          git config user.name "GitHub Action"
+          git add -A
+          git diff --quiet && git diff --staged --quiet || (git commit -m "Generate 3D contribution city" && git push)
