@@ -30,15 +30,6 @@
   <img height="280em" src="https://github-readme-activity-graph.vercel.app/graph?username=shibadityadeb&theme=nightowl&radius=10" alt="shibadityadeb's Activity Graph" />
 </p>
 
-## 🏙️ 3D Contribution City
-<p align="center">
-  <a href="https://skyline.github.com/shibadityadeb/2026" target="_blank">
-    <strong>🎮 Click here to view your interactive 3D GitHub Contribution City!</strong><br/>
-    <img alt="GitHub Skyline" src="https://img.shields.io/badge/GitHub%20Skyline-Click%20to%20View-blue?style=for-the-badge" />
-  </a>
-</p>
-
-Your GitHub contributions visualized as an interactive 3D city. [View Skyline →](https://skyline.github.com/shibadityadeb/2026)
 
 ##  Connect with Me
 <p align="center"><a href="https://www.linkedin.com/in/shibadityadeb/" target="_blank"><img src="https://raw.githubusercontent.com/gauravghongde/social-icons/9d939e1c5b7ea4a24ac39c3e4631970c0aa1b920/SVG/Color/LinkedIN.svg" alt="LinkedIN" width="40" height="40" style="margin: 0 8px;"/></a> <a href="mailto:debshibaditya144@gmail.com" target="_blank"><img src="https://raw.githubusercontent.com/gauravghongde/social-icons/9d939e1c5b7ea4a24ac39c3e4631970c0aa1b920/SVG/Color/Gmail.svg" alt="Gmail" width="40" height="40" style="margin: 0 8px;"/></a> <a href="https://shibadityadeb-seven.vercel.app/" target="_blank"><img src="https://raw.githubusercontent.com/gauravghongde/social-icons/9d939e1c5b7ea4a24ac39c3e4631970c0aa1b920/SVG/Color/WWW.svg" alt="Website" width="40" height="40" style="margin: 0 8px;"/></a></p>
