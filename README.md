@@ -29,8 +29,10 @@
 <p align="center">
   <img height="280em" src="https://github-readme-activity-graph.vercel.app/graph?username=shibadityadeb&theme=nightowl&radius=10" alt="shibadityadeb's Activity Graph" />
 </p>
+
+## 🏙️ 3D Contribution City
 <div align="center">
-  <img src="profile-3d-city.svg" alt="3D City" width="100%" />
+  <img src="profile-3d-contrib.png" alt="3D Contribution City" width="100%" />
 </div>
 
 ##  Connect with Me
